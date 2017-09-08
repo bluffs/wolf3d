@@ -1,6 +1,8 @@
 # wolf3d
 3D project with raycasting and a minimap to see clearly where you are.
+
 Graphics windows made with minilibX.
+
 I also made a parser to read my own maps.
 
 # Installation
